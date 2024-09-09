@@ -1,0 +1,15 @@
+{
+  "name": "js-_kata-dni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Dni.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Javier",
+  "license": "ISC",
+  "dependencies": {
+    "js-kata-dni": "file:",
+    "vitest": "^2.0.5"
+  }
+}
